@@ -1,14 +1,19 @@
 
 
-.container-lg,
-.container-md,
-.container-sm{
+[class^=container]{
     border: 1px solid rgba(63, 63, 243, 0.959);
 }
 
+header{
+    background-color: burlywood;
+}
+
+.jumbotron{
+    background-color: rgb(12, 209, 143);
+}
 
 [class^=col]{
     height: 50px;
     border: 1px solid rgba(63, 177, 243, 0.959);
-    
 }
+
