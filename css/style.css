@@ -17,6 +17,7 @@ header{
     border: 1px solid rgba(63, 177, 243, 0.959);
 }
 
+.contact [class^=col],
 .card [class^=col]{
     height: 400px;
     
@@ -24,4 +25,8 @@ header{
 
 .about [class^=col]{
     height: 80px;
+}
+.container-sm,
+.contact{
+    border: 1px solid red;
 }
