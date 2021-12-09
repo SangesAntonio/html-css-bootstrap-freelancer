@@ -33,3 +33,8 @@ header{
 .container-fluid{
     padding: 0;
 }
+
+nav{
+    line-height: 50px;
+    vertical-align: middle;
+}
