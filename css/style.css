@@ -1,0 +1,14 @@
+
+
+.container-lg,
+.container-md,
+.container-sm{
+    border: 1px solid rgba(63, 63, 243, 0.959);
+}
+
+
+[class^=col]{
+    height: 50px;
+    border: 1px solid rgba(63, 177, 243, 0.959);
+    
+}
