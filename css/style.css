@@ -7,7 +7,7 @@
 header{
     background-color: burlywood;
 }
-
+.bottom,
 .jumbotron{
     background-color: rgb(12, 209, 143);
 }
@@ -29,4 +29,8 @@ header{
 .container-sm,
 .contact{
     border: 1px solid red;
+}
+
+.container-fluid{
+    padding: 0;
 }
