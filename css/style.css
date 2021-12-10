@@ -2,15 +2,34 @@
 header{
     background-color: #2C3E50;
 }
+.jumbotron{
+    background-color: #1ABC9C;
+}
 
 /**text**/
-.navbar#cs-text{
+
+#cs-text{
     color: white;
     font-weight: bold;
 }
 
 
+
 nav{
     line-height: 50px;
     vertical-align: middle;
+}
+
+/**img**/
+#jumbotron-figure{
+    margin-bottom: 0;
+}
+.jumbotron-img{
+    max-width: 300px;
+    height: auto;
+}
+
+.portfolio img{
+    max-width: 100%;
+    height: auto;
 }
