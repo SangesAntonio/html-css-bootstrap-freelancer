@@ -1,13 +1,18 @@
 footer,
 header{
-    background-color: #2C3E50;
+    background-color: #3A546D;
 }
 .jumbotron{
     background-color: #1ABC9C;
 }
-.name-color-footer
+
 .about{
     background-color: #1ABC9C;
+}
+
+.footer-bottom{
+    background-color: #2C3E50;
+    color: white;
 }
 
 .name-color-footer{
