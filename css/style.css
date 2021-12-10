@@ -1,17 +1,26 @@
-
+footer,
 header{
     background-color: #2C3E50;
 }
 .jumbotron{
     background-color: #1ABC9C;
 }
+.name-color-footer
 .about{
     background-color: #1ABC9C;
+}
+
+.name-color-footer{
+    color: #1ABC9C;
 }
 
 nav{
     line-height: 50px;
     vertical-align: middle;
+}
+
+footer span{
+    width: 100%;
 }
 /**text**/
 
@@ -37,6 +46,9 @@ nav{
     height: auto;
 }
 
+.footer-social i{
+    padding-left: 20px;
+}
 /*? custom utilities*/
 .contact textarea,
 .contact input{
