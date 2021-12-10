@@ -34,8 +34,15 @@ footer span{
     font-weight: bold;
 }
 
-
-
+/*!star*/
+.progress{
+    width: 100px;
+    height: 5px;
+}
+.fa-star{
+    font-size: 2rem;
+    width: auto;
+}
 
 /**img**/
 #jumbotron-figure{
