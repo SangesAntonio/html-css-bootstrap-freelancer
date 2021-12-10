@@ -1,35 +1,13 @@
 
-
-[class^=container]{
-    border: 1px solid rgba(63, 63, 243, 0.959);
-}
-
 header{
-    background-color: burlywood;
-}
-.bottom,
-.jumbotron{
-    background-color: rgb(12, 209, 143);
+    background-color: #2C3E50;
 }
 
-[class^=col]{
-    height: 50px;
-    border: 1px solid rgba(63, 177, 243, 0.959);
+/**text**/
+.navbar#cs-text{
+    color: white;
+    font-weight: bold;
 }
-
-.contact [class^=col]{
-    heig: 400px;
-    
-}
-
-.about [class^=col]{
-    height: auto;
-}
-.container-sm,
-.contact{
-    border: 1px solid red;
-}
-
 
 
 nav{
