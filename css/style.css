@@ -18,21 +18,19 @@ header{
 }
 
 .contact [class^=col]{
-    height: 400px;
+    heig: 400px;
     
 }
 
 .about [class^=col]{
-    height: 80px;
+    height: auto;
 }
 .container-sm,
 .contact{
     border: 1px solid red;
 }
 
-.container-fluid{
-    padding: 0;
-}
+
 
 nav{
     line-height: 50px;
