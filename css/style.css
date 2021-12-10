@@ -9,6 +9,10 @@ header{
     background-color: #1ABC9C;
 }
 
+nav{
+    line-height: 50px;
+    vertical-align: middle;
+}
 /**text**/
 
 #cs-text{
@@ -18,10 +22,6 @@ header{
 
 
 
-nav{
-    line-height: 50px;
-    vertical-align: middle;
-}
 
 /**img**/
 #jumbotron-figure{
