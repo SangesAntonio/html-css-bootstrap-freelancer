@@ -36,3 +36,17 @@ nav{
     max-width: 100%;
     height: auto;
 }
+
+/*? custom utilities*/
+.contact textarea,
+.contact input{
+    border: 0;
+    padding: 0;
+}
+.form-control.cs-border{
+    border-bottom: 1px solid gray;
+}
+
+#cs-btn-contact{
+    background-color: #1ABC9C;
+}
